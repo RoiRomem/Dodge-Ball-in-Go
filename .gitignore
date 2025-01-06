@@ -7,6 +7,7 @@
 /firebase.json
 *.cache
 hosting/.cache
+/config.json
 
 # Firebase Functions
 /functions/node_modules/
